@@ -1,0 +1,39 @@
+TARGETID	T19693
+UNIPROID	GUC2D_HUMAN
+TARGNAME	Soluble guanylyl cyclase (GUCY2D)
+TARGTYPE	Successful target
+
+TARGETID	T20178
+UNIPROID	TNFA_HUMAN
+TARGNAME	Tumor necrosis factor (TNF)
+TARGTYPE	Successful target
+
+TARGETID	T17980
+UNIPROID	FYN_HUMAN
+TARGNAME	Fyn tyrosine protein kinase (FYN)
+TARGTYPE	Successful target
+
+TARGETID	T18477
+UNIPROID	HS90A_HUMAN
+TARGNAME	Heat shock protein 90 alpha (HSP90A)
+TARGTYPE	Successful target
+
+TARGETID	T18632
+UNIPROID	NOUNIPROTAC
+TARGNAME	Cholinergic receptor unspecific (CHR)
+TARGTYPE	Successful target
+
+TARGETID	T18950
+UNIPROID	GON1_HUMAN
+TARGNAME	Leutinizing-hormone-releasing hormone (GNRH1)
+TARGTYPE	Successful target
+
+TARGETID	T19229
+UNIPROID	PCFT_HUMAN
+TARGNAME	Proton-coupled folate transporter (SLC46A1)
+TARGTYPE	Successful target
+
+TARGETID	T19244
+UNIPROID	CP2C9_HUMAN
+TARGNAME	S-mephenytoin 4-hydroxylase (CYP2C9)
+TARGTYPE	Successful target

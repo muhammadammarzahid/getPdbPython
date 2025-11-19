@@ -1,0 +1,7 @@
+/.vscode
+/PDB_converted_MAE
+/PDB_converted_PDB
+/PDB_repository_TTD
+/build_pdb_repository.py
+/conversion_log.csv
+/download_log_ttd.csv
