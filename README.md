@@ -59,7 +59,7 @@ This project relies on the following Python libraries:
 Run the main script to start the pipeline:
 
 ```bash
-python getPdbPython.py
+python getPdb.py
 ```
 
 ### Configuration
